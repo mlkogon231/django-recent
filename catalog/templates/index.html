@@ -1,0 +1,17 @@
+{% extends "base_generic.html" %}
+
+{% block title %}Mark's Library{% endblock %}
+
+{% block content %}
+  <h1>Mark's Library</h1>
+  <p>Welcome to Mark's Library, a website developed by Mark Kogon using the <em>Mozilla Developer Network</em> tutorial!</p>
+
+  <h2>Dynamic content</h2>
+  <p>The library has the following record counts:</p>
+  <ul>
+    <li><strong>Books:</strong> {{ num_books }}</li>
+    <li><strong>Copies:</strong> {{ num_instances }}</li>
+    <li><strong>Copies available:</strong> {{ num_instances_available }}</li>
+    <li><strong>Authors:</strong> {{ num_authors }}</li>
+  </ul>
+{% endblock %}

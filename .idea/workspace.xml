@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="004afaad-2c7d-4383-bd9a-6c1cb2f437bf" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/COMMIT_EDITMSG" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/FETCH_HEAD" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/HEAD" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/ORIG_HEAD" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/config" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/description" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/hooks/applypatch-msg.sample" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/hooks/commit-msg.sample" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/hooks/post-update.sample" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/hooks/pre-applypatch.sample" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/hooks/pre-commit.sample" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/hooks/pre-push.sample" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/hooks/pre-rebase.sample" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/hooks/pre-receive.sample" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/hooks/prepare-commit-msg.sample" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/hooks/update.sample" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/index" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/info/exclude" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/logs/HEAD" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/logs/refs/heads/master" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/logs/refs/remotes/origin/master" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/01/414d067015145238e10f38401e4e568b054bb0" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/03/3d1451ba500c161904dd1f0bcabba9ee188da1" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/04/4b1fa56a3bb0ac4d021a447e7b565b09e2ab9d" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/04/acef981dfadf5eb8c45217404b1a9c9aed2797" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/06/4b953cdcf9110b758c5e02606eec5e7ab42cac" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/08/b010e203774afd8827c58950d9528bf59fabcf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/0b/4cffb59d661d80c2e75033e4de4b561b04d805" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/0b/8a125f0e0a4917badd1eb590e09be6d91c6e4e" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/13/5fdfba00ec981209acdf8eb0b9a3757f0ac32b" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/13/b2f56714ac5b4d3a7cd0a08a3321d333ac83c4" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/17/c8e731b83d1022f5cbfd99284e3b6e90799cac" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/19/a6dff042097a9466e2ec2c93c9687847b806c8" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/1c/3a62e1647164cbfd3ee12e67e8a1b03a62abc9" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/20/2ddbb7bb7a010888a292908da70d40a6cc9838" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/21/a64d03d011d37c9f99b0bf84e8f662a276e9a3" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/30/cb58a7e79421331e4e5344e5d6a716d9350f9e" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/32/0926281b7165fdf728574f83954e198ea92160" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/32/674da7e88d6831fe41ad969abb089980c965ae" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/33/21ddff08a1aefcd2a926f21e61ac3d6de2ed52" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/33/50ccf9a35181b7e053e5e75b62981809b33485" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/34/569441f3eb012eb8a292bc5ba7d282d89c9c41" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/35/2b0956e003f9c5f70038b093644d27c14fac98" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/38/34f760824f4989008ce623cee2173219adf257" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/3c/2cb1258a8d0833d24db650a6612dacbb4818ca" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/42/32fefaaf0e81e52b9765f1b323399b5c121398" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/44/93f2463dfbdc70147fd654edaef5631c703aed" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/44/eeaf9ffd6b44f32db16d120551032ae8dd76d9" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/45/5d0618ecda36edea8291a985414289ecb518f9" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/47/6a53a62b38cef12c7615f499f6c3b107873292" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/48/04dbc44ff3a0b9e7d8d198989b41f708b0dba7" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/49/60e8a547dec06c6c0e126766dd4f1378aa64a0" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/4c/211adbfa3e0677df2599e91ec7d31202a4e05e" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/4f/5a031041c236f92c9039edc0b18453fee92663" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/4f/e845a9b404461c98e6807376114326123e3521" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/52/fcbb625ac90995520943b7ed8810c2a54ab39c" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/54/79865c6a8f918814d742b69c5c019314c92ea5" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/58/62d8abbd102862389b6d3a8e9a8a8d51a9cdad" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/58/825a8a47d15152951485f01ef0cb061c531285" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/59/fea8e2d9f26e79130bca796217a461c51422ab" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/5b/f8ce39ddaca3a2a7cfe2e9399d28c3a16f8783" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/63/a2ffe6fbee0d5bf2510c39f152cbc3932ffe5c" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/66/b21db3a6f32e304310bacffc6baf5a964c92be" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/67/11606311e2664bd835f92b5c114681d2e284f5" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/67/1629fb909c525bd4094c6c13de5370cd3d07bd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/67/7c7abd60fedea82099b3d449ca70fd40a3cd96" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/68/c38ee15ea81c8effabdd6061849b582470fb11" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/6a/255b485446b8fe2f8adfa178569e2269ce6a83" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/6a/ef4608466ae9ba9e9d1c64bbb38bbfadf391c0" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/6c/e55757766af3f11b9d8788351717e8e2335b5d" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/7c/464c79fad0942f4b5a38249f2c197de47d02f6" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/7c/65f40a018abde642b2ac0c1c60c902979072e4" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/7c/cc5b2569de541dafcbba5e8884e97024a63dab" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/82/95ff79fae4ab04aa5df262b376de2c083dfabd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/84/4b42d808613b487e6316a07eedb7825356cf39" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/85/2ede9ba97f347143a8c152e16cecd92db29fb7" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/8a/2dfb2a4ae9c3ef17189ff22a1eb407ce9000cf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/8a/e8f8dd600bfc4e7d4b03c0683bd044640186c8" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/8b/d73feabcb281ff4b89ebb5ca87d7fc1f3fc5e7" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/8f/356c327139ff3d720e1a140d79336e0d01b168" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/90/7050db593238c7206c823fcd7399f6ecfc3233" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/90/9a2cf413784de8782225e6b3eb38a14dfc76e2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/91/139e8a1fbdb89fea591a4166043f1df7b98a85" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/91/b26cd674bc42cb6bad53c330edd9ff15c19b2c" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/92/b31ae32ba2f93c7a73954fedd8a733e940278c" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/94/a25f7f4cb416c083d265558da75d457237d671" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/96/8e83eb37a299e3edf614720e89057c63d31338" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/97/d594e19dde7cc0625f5a070f34298af74bb832" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/9a/26ecc9fb9d1cadc0ff52779c39c47969946a1f" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/9d/945a9319912a4b9a85246379a582fbbe80b841" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/a3/b6ce57857d343e80b57cde99355f9937b07f2a" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/a5/cd9b10994eaf6d2a32ae7783c29b070cb03da0" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/a9/9233716f581980118363ad3bf755d6adb0f66a" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/ac/a4f3a51984affd9181a1d513edaf7688422a1f" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/ae/fa970536a4e3d50acf954c4bdbe86222667a4d" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/af/633c7f679c62b81d3ca994c5c06941ba989ae0" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/b1/b812f5e952f74a723079cc7b233b38d5f6d8fc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/b4/9501eefc61d6b801c8e0d5b4855d5fd39c2747" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/b5/dd8781643601960cbca1ab70efcb45faa86566" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/b7/fc258c0150be4dfa456b61c5f7b12f45390e8e" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/ba/1b6c29685058cb7716b3ced1ec76dd76f38bba" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/c0/934adf14a8f8dda03bb22133bb1445c8a8dcd1" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/c8/3e189945c4d4c5b0714d6e97c406e9daf442fe" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/c9/4330aa3ba5014d852a3491399cb476b3d9d599" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/ca/b2565fdd86e106901cc197fd36d84799250228" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/cc/8e4c3f5ed57afdc2d9c568489e1e85ad641d54" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/d2/2433d98a9e82c208fa9ce7a768709942bf1051" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/d2/d5ffc4b43aa9476073cfd7bb63dffec3de43ed" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/d3/6c8669182952a40961c4f48c05cf93b1ab9e90" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/de/8bdc00eb2fed53494a534d48e400faa830dbd9" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/e2/b74b4cdb0c82b8abef05d489beb76cc05c4ea7" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/e4/28502f1caf8c036ac112ba82877b444d51b325" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/e5/24f6597c5484b5cbbfbed6e0b59966a78e0707" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/e5/507c4c12525784b261b0e53833d090324eba13" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/ed/12bf873635e76a4358f042186e92c99bdaebbf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/ef/54db7fc7e01f8edf90433e5f103f013641aecd" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/f0/240c6816598f237829e25c328d4c34d746f987" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/ff/6bd63177022b7216b51a214aa58ddfa6f40a17" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/objects/ff/dac2f92c2522254f7f5829509a80a02cfbbffc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/refs/heads/master" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.git - Copy/refs/remotes/origin/master" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/MarksNewSite.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MarksNewSite/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MarksNewSite/settings.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MarksNewSite/urls.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MarksNewSite/wsgi.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/catalog/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/catalog/admin.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/catalog/apps.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/catalog/migrations/0001_initial.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/catalog/migrations/0002_auto_20180806_0747.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/catalog/migrations/0003_auto_20180806_0806.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/catalog/migrations/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/catalog/models.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/catalog/static/css/styles.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/catalog/templates/base_generic.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/catalog/templates/catalog/author_detail.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/catalog/templates/catalog/author_list.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/catalog/templates/catalog/book_detail.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/catalog/templates/catalog/book_list.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/catalog/templates/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/catalog/test" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/catalog/tests.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/catalog/urls.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/catalog/views.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db.sqlite3" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/django" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/manage.py" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/catalog/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="6" column="37" lean-forward="false" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="37" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tests.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/catalog/tests.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/catalog/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="44" column="18" lean-forward="false" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="book_detail.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/catalog/templates/catalog/book_detail.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="8" column="53" lean-forward="false" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="author_detail.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/catalog/templates/catalog/author_detail.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="6" column="51" lean-forward="false" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/catalog/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="book_list.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/catalog/templates/catalog/book_list.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base_generic.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/catalog/templates/base_generic.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="20" column="35" lean-forward="false" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/catalog/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1143">
+              <caret line="38" column="55" lean-forward="false" selection-start-line="38" selection-start-column="55" selection-end-line="38" selection-end-column="55" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="author_list.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/catalog/templates/catalog/author_list.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="8" column="98" lean-forward="false" selection-start-line="8" selection-start-column="98" selection-end-line="8" selection-end-column="98" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ManyToManyField</find>
+      <find>manyto</find>
+      <find>disp</find>
+      <find>class BooksInstanceInline(admin.TabularInline):</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/MarksNewSite/settings.py" />
+        <option value="$PROJECT_DIR$/MarksNewSite/urls.py" />
+        <option value="$PROJECT_DIR$/catalog/static/css/styles.css" />
+        <option value="$PROJECT_DIR$/../MarksNewSite - displaying.home.page.before.all.challenges.08.06.18.7.40am/catalog/models.py" />
+        <option value="$PROJECT_DIR$/catalog/admin.py" />
+        <option value="$PROJECT_DIR$/catalog/templates/index.html" />
+        <option value="$PROJECT_DIR$/catalog/templates/catalog/book_list.html" />
+        <option value="$PROJECT_DIR$/catalog/models.py" />
+        <option value="$PROJECT_DIR$/catalog/templates/catalog/book_detail.html" />
+        <option value="$PROJECT_DIR$/catalog/urls.py" />
+        <option value="$PROJECT_DIR$/catalog/views.py" />
+        <option value="$PROJECT_DIR$/catalog/templates/catalog/author_detail.html" />
+        <option value="$PROJECT_DIR$/catalog/templates/base_generic.html" />
+        <option value="$PROJECT_DIR$/catalog/templates/catalog/author_list.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="146" />
+    <option name="y" value="168" />
+    <option name="width" value="1792" />
+    <option name="height" value="860" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MarksNewSite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MarksNewSite" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MarksNewSite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MarksNewSite" type="462c0819:PsiDirectoryNode" />
+              <item name="catalog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MarksNewSite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MarksNewSite" type="462c0819:PsiDirectoryNode" />
+              <item name="catalog" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MarksNewSite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MarksNewSite" type="462c0819:PsiDirectoryNode" />
+              <item name="catalog" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MarksNewSite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MarksNewSite" type="462c0819:PsiDirectoryNode" />
+              <item name="catalog" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="catalog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MarksNewSite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MarksNewSite" type="462c0819:PsiDirectoryNode" />
+              <item name="MarksNewSite" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\django\marksDjangoProjects\django_test\MarksNewSite\catalog\templates\catalog" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="004afaad-2c7d-4383-bd9a-6c1cb2f437bf" name="Default" comment="" />
+      <created>1533513287309</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533513287309</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="146" y="168" width="1792" height="860" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15084746" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/catalog/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MarksNewSite/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-750">
+          <caret line="39" column="5" lean-forward="false" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/static/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MarksNewSite - displaying.home.page.before.all.challenges.08.06.18.7.40am/catalog/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="35" column="58" lean-forward="false" selection-start-line="35" selection-start-column="58" selection-end-line="35" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#32#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MarksNewSite/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="26" column="1" lean-forward="false" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+          <folding>
+            <element signature="e#636#668#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="37" lean-forward="false" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/templates/catalog/book_detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="53" lean-forward="false" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/templates/base_generic.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="20" column="35" lean-forward="false" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/templates/catalog/book_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/templates/catalog/author_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="98" lean-forward="false" selection-start-line="8" selection-start-column="98" selection-end-line="8" selection-end-column="98" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1143">
+          <caret line="38" column="55" lean-forward="false" selection-start-line="38" selection-start-column="55" selection-end-line="38" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="44" column="18" lean-forward="false" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/templates/catalog/author_detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="51" lean-forward="false" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
