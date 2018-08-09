@@ -6,9 +6,13 @@
   <ul>
     {% for book in book_list %}
       <li>
-        <a href="{{ book.get_absolute_url }}">{{ book.title }}</a> ({{book.author}})
+        <a href="{{ book.get_absolute_url }}">{{ book.title }}</a> ({{book.author}}) <a href="{{ book.get_absolute_url }}/update">Update</a>
+        <a href = "{{ book.get_absolute_url }}/delete">Delete</a>
+
       </li>
+
     {% endfor %}
+    <a href = "../book/create"><p>Create new book</a></p>
   </ul>
   {% else %}
     <p>There are no books in the library.</p>
