@@ -100,7 +100,7 @@ class BookInstance(models.Model):
 
     def __str__(self):
         """String for representing the Model object."""
-        return f'{self.id} ({self.book.title})'
+        return '{self.id} ({self.book.title})'
 
 
 class Author(models.Model):
@@ -119,7 +119,7 @@ class Author(models.Model):
 
     def __str__(self):
         """String for representing the Model object."""
-        return f'{self.last_name}, {self.first_name}'
+        return '{self.last_name}, {self.first_name}'
 
     class Meta:
         ordering = ['last_name']
